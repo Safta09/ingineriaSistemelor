@@ -10,6 +10,7 @@ public class Main {
         Form form4= new Form("white ");
         Form form5 = new Form("black ");
         Form form6= new Form("yellow");
+        Form form7= new Form("yellow");
 
         System.out.println("Number of instances created: " + Form.getCounter());
     }
